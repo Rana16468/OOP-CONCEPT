@@ -24,6 +24,7 @@
     // const instance2=new Counter();
     // console.log(instance2.increment());
     // console.log(instance2.increment());
+    
    
    
 
